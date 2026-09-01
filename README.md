@@ -1,9 +1,9 @@
-# Servioo
+# Korigio downloads
 
-Public downloads for **Servioo**, the offline workshop repair manager.
+Public installers for **Korigio**, the offline workshop repair manager.
 
 **Author:** Moritz Alexander Wright
 
-Installers: https://m-wri.github.io/servioo/
+Installers: https://korigio.github.io/korigio-downloads/
 
-Application source is private. This repository only hosts the download page and release binaries.
+Application source is private ([Korigio/korigio-desktop-app](https://github.com/Korigio/korigio-desktop-app)). This repository only hosts the download page and release binaries.
